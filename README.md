@@ -87,3 +87,57 @@ farm prior to leasing out the land.
 _______________
 PRIOR HISTORY
 
+CDM Project 0267 : 5 MW Wind Power Project at Baramsar and Soda Mada, district Jaisalmer, Rajasthan, India.
+
+Sectoral scopes	1 : Energy industries (renewable - / non-renewable sources)
+Activity Scale	SMALL
+
+Methodologies Used	AMS-I.D. ver. 7 - Renewable electricity generation for a grid
+
+Amount of Reductions	5,804 metric tonnes CO2 equivalent per annum
+
+CDM Registration Date	14 Apr 06
+
+CDM Crediting Period	16 Jun 03 - 15 Jun 13 (Fixed)
+______________
+Monitoring Period: 16 Jun 2003 - 01 Jul 2006 
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 12600
+
+Serial Range: Block start: IN-5-17782123-1-1-0-267      Block end: IN-5-17794722-1-1-0-267
+_____________________________
+
+Monitoring Period: 02 Jul 2006 - 01 Sep 2008 
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 12674
+
+Serial Range: Block start: IN-5-117715759-1-1-0-267      Block end: IN-5-117728432-1-1-0-267
+__________________________
+
+Monitoring Period: 02 Sep 2008 - 30 Jun 2011 
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 14183
+
+Serial Range: Block start: IN-5-186467819-1-1-0-267      Block end: IN-5-186482001-1-1-0-267
+____________________________
+
+Monitoring Period: 01 Jul 2011 - 15 Jun 2013
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 6475
+
+CERs requested from 01 Jan 2013 until 31 December 2020: 1694
+
+Serial Range: Block start: IN-5-305219022-1-1-0-267      Block end: IN-5-305225496-1-1-0-267
+
+Serial Range: Block start: IN-5-305225497-2-2-0-267      Block end: IN-5-305227190-2-2-0-267
+_____________________________
+
+
