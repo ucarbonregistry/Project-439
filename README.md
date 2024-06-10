@@ -1,6 +1,49 @@
 # Project-439
 5 MW Wind Power Project by M/s Transport Corporation of India Limited (TCIL) at Rajasthan
 
+1st CoU Issuance Period: 16.06.2013 to 31.12.2023(10 Year 6 Month 15 Days)
+
+1st Monitoring Period: 16.06.2013 to 31.12.2023(10 Year 6 Month 15 Days)
+
+1st Crediting Period: 16.06.2013 to 31.12.2023(10 Year 6 Month 15 Days)
+
+The project activity titled 5 MW Wind Power Project by M/s Transport Corporation of India
+Limited, (TCIL) is renewable (wind) energy projects located at the following locations in
+Country: India: 
+
+________________
+Sr No /Name of Wind Farm/Installed Capacity (MW)/ State /District 
+______
+Site 01/Transport Corporation of India Limited /5 MW /Rajasthan / Jaisalmer /Soda-MadaBaramsar
+
+Location /COD/ Village/ District/ State
+___________________
+J227 / 30 September 2004 / Soda-Mada  /Jaisalmer / Rajasthan
+____________________
+J228 /30 September 2004 / Soda-Mada / Jaisalmer / Rajasthan
+____________
+J70 / 16 June 2003 / Baramsar / Jaisalmer / Rajasthan
+___________
+J71 / 16 June 2003 / Baramsar / Jaisalmer / Rajasthan
+
+The wind farm is owned by Transport Corporation of India Limited, TCIL (Project Proponent or
+PP).The total installed capacity of the Transport Corporation of India Limited Wind Project is
+5 MW wind power project in Rajasthan. The Transport Corporation of India Limited Wind
+Projects consists of 4 WTGs. The entire Engineering, Procurement and Construction (EPC) are
+provided by M/S Suzlon Energy Ltd.
+
+The generated electricity from the WTGs is grid connected wind power project located in SodaMada and Baramsar village of Jaisalmer district of Rajasthan (India). The purpose of this plant
+installation to supply electricity to regional Grid. The wind power projects are operational
+activities with continuous reduction of GHGs, currently being applied for voluntary carbon offset
+units (CoUs) under “Universal Carbon Registry” (UCR).
+
+In the absence of the project activity, electricity would have been delivered to the grid by the
+operation of fossil fuel-based grid-connected power plants and by the addition of new fossil fuelbased generation sources in the Grid. As is the nature of wind projects (renewable energy), no
+fossil fuel is involved for power generation in the project activity. The electricity produced by the
+project is directly contributing to climate change mitigation by reducing the anthropogenic
+emissions of greenhouse gases (GHGs, i.e., CO2) into the atmosphere by displacing an equivalent
+amount of power at grid.
+
 Metering equipment:
  All the metering equipments, including transformers, control and relay/ protection panels, metering,
 HT lines from the point of generation to the nearest pooling station/ technically feasible point
@@ -41,3 +84,6 @@ period of 19 years for erection and commissioning of WEGs. All the necessary cle
 operation of wind farm. The Baramsar and Soda Mada villages are nothing but scattered hamlets of few habitants residing near the
 project site. The villagers have been apprised by the state government revenue department about the wind
 farm prior to leasing out the land.
+_______________
+PRIOR HISTORY
+
