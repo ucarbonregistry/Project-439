@@ -84,6 +84,78 @@ period of 19 years for erection and commissioning of WEGs. All the necessary cle
 operation of wind farm. The Baramsar and Soda Mada villages are nothing but scattered hamlets of few habitants residing near the
 project site. The villagers have been apprised by the state government revenue department about the wind
 farm prior to leasing out the land.
+_________
+UCR ISSUANCE DATE: 03/09/2024
+
+QTY: 42099
+
+UCR MP-01: 16/06/2013-31/12/2023
+__________
+Serial Number: 0001-000001-001813-UCR-CoU-IN-439-16062013-31122013
+
+Vintage Year: 2013
+
+Quantity: 1813
+____________
+Serial Number: 0001-001814-004338-UCR-CoU-IN-439-01012014-31122014
+
+Vintage Year: 2014
+
+Quantity: 2525
+_____________
+Serial Number: 0001-004339-007319-UCR-CoU-IN-439-01012015-31122015
+
+Vintage Year: 2015
+
+Quantity: 2981
+________________
+Serial Number: 0001-007320-011354-UCR-CoU-IN-439-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 4035
+_______________
+Serial Number: 0001-011355-015456-UCR-CoU-IN-439-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 4102
+________________
+Serial Number: 0001-015457-019647-UCR-CoU-IN-439-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 4191
+_______________
+Serial Number: 0001-019648-024086-UCR-CoU-IN-439-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 4439
+_________________
+Serial Number: 0001-024087-028311-UCR-CoU-IN-439-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 4225
+______________
+Serial Number: 0001-028312-032485-UCR-CoU-IN-439-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 4174
+___________
+Serial Number: 0001-032486-036865-UCR-CoU-IN-439-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 4380
+_____________
+Serial Number: 0001-0036866-042099-UCR-CoU-IN-439-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 5234
 _______________
 PRIOR HISTORY
 
